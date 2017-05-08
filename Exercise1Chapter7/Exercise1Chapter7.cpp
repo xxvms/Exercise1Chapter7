@@ -32,6 +32,5 @@ void reversit(char* napoleon_)
 	{
 		napoleon_[i] = rev[j];
 	}
-	//std::cout << "STRL: " << strlen(napoleon_) << std::endl;
 	std::cout << napoleon_ << std::endl;
 }
